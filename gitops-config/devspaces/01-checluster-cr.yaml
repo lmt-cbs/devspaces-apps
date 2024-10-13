@@ -30,7 +30,7 @@ spec:
     defaultNamespace:
       autoProvision: true
       template: <username>-devspaces
-    maxNumberOfWorkspacesPerUser: 4
+    maxNumberOfWorkspacesPerUser: 5
     secondsOfInactivityBeforeIdling: 1800
     secondsOfRunBeforeIdling: -1
     security: {}
